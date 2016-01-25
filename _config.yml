@@ -1,0 +1,28 @@
+name: JTimelapse
+favicon: null
+layout_spectrum: 0.6032538271974772
+typography_spectrum: 0.14459872897714376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3030329463072121
+  lightness: 0.20321527076885104
+  saturation: 0.18173787486739457
+  rhythmicContrast: 0.8487477535381913
+purpose: []
